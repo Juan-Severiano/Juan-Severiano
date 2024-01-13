@@ -1,18 +1,36 @@
-<h1> Hello There 🖖, I'm Juan Severiano </h1>
-
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
-<body align="center">
+
+# Hello There 🖖, I'm Juan Severiano
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/rodriguesxxx/](https://www.linkedin.com/in/francisco-juan-severiano-a939b9241/))
+[![Insatgram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_juan.sev_/)
+
  <div align="center"> 
 <a href="https://github.com/Juan-Severiano">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Juan-Severiano&theme=radical&rank_icon=github&show_icons=true&repo-private=true" />
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-Severiano&layout=compact&langs_count=8&card_width=320&theme=radical&exclude_repo=Curso-JavaScript,curso_bootstrap,starwars-list,pokemon-devemdobro,Landing-Page,gatastrofic,academytaskhub-app,react-native-base-project" />
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Juan-Severiano&theme=radical&mode=weekly" />
-  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </a>
 </div>
+
+## 🔧 Technical Skills
+- Solid foundation in TypeScript
+- Fluent in JavaScript
+- Expertise in React, React Native
+- Proficient in dinamic websites
+- Back (Nest.js, Node.js[express])
+
+
+## 🔧 Soft Skills
+- **Leadership** - I worked as a team leader in several robotics competitions.
+- **Communication** - I have excellent communication, I can express myself clearly and objectively.
+- **Discipline** - I have the necessary discipline to carry out any task with excellence.
+
+##
+
+<body align="center">
     <div class="ferramentas" align="center"> 
         <br>
         <img aling="center" alt="Juan-HTML" height="40" width="50"
@@ -54,6 +72,7 @@
   <a href="https://www.linkedin.com/in/francisco-juan-severiano-a939b9241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://t.me/@juansev616" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
-
-
+<div align="center">
+  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 </body>

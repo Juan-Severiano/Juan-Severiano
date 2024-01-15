@@ -11,7 +11,7 @@
 <a href="https://github.com/Juan-Severiano">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Juan-Severiano&theme=radical&rank_icon=github&show_icons=true&repo-private=true" />
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-Severiano&layout=compact&langs_count=8&card_width=320&theme=radical&exclude_repo=Curso-JavaScript,curso_bootstrap,starwars-list,pokemon-devemdobro,Landing-Page,gatastrofic,academytaskhub-app,react-native-base-project" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-Severiano&layout=compact&langs_count=8&card_width=320&theme=radical&exclude_repo=Curso-JavaScript,curso_bootstrap,starwars-list,pokemon-devemdobro,Landing-Page,gatastrofic,academytaskhub-app,react-native-base-project,academytaskhub" />
 </a>
 </div>
 

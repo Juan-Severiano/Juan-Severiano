@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
 
-# Hello There 🖖, I'm Juan Severiano
+# Hello There 🖖, I'm Francisco Juan Severiano
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/rodriguesxxx/](https://www.linkedin.com/in/francisco-juan-severiano-a939b9241/))
 [![Insatgram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_juan.sev_/)

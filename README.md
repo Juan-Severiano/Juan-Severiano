@@ -18,7 +18,7 @@
 ## 🔧 Technical Skills
 - Solid foundation in TypeScript
 - Fluent in JavaScript
-- Expertise in React, React Native
+- Expertise in React, React Native, MaterialUI
 - Proficient in dinamic websites
 - Back (Nest.js, Node.js[express])
 

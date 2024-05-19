@@ -15,6 +15,12 @@
 </a>
 </div>
 
+## Experiences
+- Frontend Developer at <a href="https://bullean.com.br">Bullean Technologies</a>
+- <a href="https://github.com/CoffeeStackDev">CoffeeStack's</a> TechLead
+- [Amontada Valley](https://www.amontadavalley.com.br/) Student
+- Participant of the 3rd Hackathon of [Amontada Valley](https://www.amontadavalley.com.br/) with [Ninna Hub](https://ninnahub.com.br/) and [M. Dias Branco](https://mdiasbranco.com.br/)
+
 ## 🔧 Technical Skills
 - Solid foundation in TypeScript
 - Fluent in JavaScript

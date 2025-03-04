@@ -41,32 +41,21 @@
 <body align="center">
     <div class="ferramentas" align="center"> 
         <br>
-        <img aling="center" alt="Juan-HTML" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-        <img aling="center" alt="Juan CSS" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        <img aling="center" alt="Juan JavaScript" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img alt="Juan-Swift" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
         <img aling="center" alt="Juan React" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-        <img aling="center" alt="Juan NPM" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        <img aling="center" alt="Juan-TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+        <img aling="center" alt="Juan Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />  
+      <img aling="center" alt="Juan NPM" height="40" width="50"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+            <img aling="center" alt="Juan NPM" height="40" width="50"
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
         <img aling="center" alt="Juan Python" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <img aling="center" alt="Juan Arduino" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
         <img aling="center" alt="Juan VSCODE" height="40" width="50"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <img aling="center" alt="Juan Ubuntu" height="40" width="50"
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-        <img aling="center" alt="Juan Git" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img aling="center" alt="Juan Django" height="40" width="50" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-        <img aling="center" alt="Juan MySQL" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-        <img aling="center" alt="Juan Gimp rapaz" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
     </div>
 
 

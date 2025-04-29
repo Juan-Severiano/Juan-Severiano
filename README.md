@@ -16,7 +16,7 @@
 </div>
 
 ## Experiences
-- Mobile Developer at <a href="https://japediudelivery.com.br">JaPediu Delivery</a>
+- Mobile Developer at <a href="https://japediudelivery.com">JaPediu Delivery</a> (Native iOS, Native Android, and React Native)
 - Frontend Developer at <a href="https://bullean.com.br">Bullean Technologies</a>
 - <a href="https://github.com/CoffeeStackDev">CoffeeStack's</a> TechLead
 - [Amontada Valley](https://www.amontadavalley.com.br/) Student
@@ -24,11 +24,11 @@
 
 
 ## 🔧 Technical Skills
-- Solid foundation in TypeScript
-- Fluent in JavaScript
-- Expertise in React, React Native, MaterialUI
+- Solid foundation in Swift
+- Fluent in TypeScript
+- Full-expertise in React, React Native, Next.js, SwiftUI
 - Proficient in dinamic websites
-- Back (Nest.js, Node.js[express])
+- Back (Nest.js, Node.js[express], Go)
 
 
 ## 🔧 Soft Skills

@@ -2,8 +2,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </head>
 
-# Hello There 🖖, I'm Francisco Juan Severiano
-
+# Hello There 🖖, I'm Francisco Juan
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/rodriguesxxx/](https://www.linkedin.com/in/francisco-juan-severiano-a939b9241/))
 [![Insatgram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_juan.sev_/)
@@ -17,6 +16,7 @@
 </div>
 
 ## Experiences
+- Mobile Developer at <a href="https://japediudelivery.com.br">JaPediu Delivery</a>
 - Frontend Developer at <a href="https://bullean.com.br">Bullean Technologies</a>
 - <a href="https://github.com/CoffeeStackDev">CoffeeStack's</a> TechLead
 - [Amontada Valley](https://www.amontadavalley.com.br/) Student

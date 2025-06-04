@@ -16,6 +16,7 @@
 </div>
 
 ## Experiences
+- FullStack Developer at <a href="https://codifyweb.com/">Codify Tecnologia e Desenvolvimento</a> (Native Mobile[Android and iOS], Web Master[ Next, Fastify, Nest, CodeIgniter and Laravel])
 - Mobile Developer at <a href="https://japediudelivery.com">JaPediu Delivery</a> (Native iOS, Native Android, and React Native)
 - Frontend Developer at <a href="https://bullean.com.br">Bullean Technologies</a>
 - <a href="https://github.com/CoffeeStackDev">CoffeeStack's</a> TechLead

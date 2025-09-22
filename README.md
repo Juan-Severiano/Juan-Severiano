@@ -59,6 +59,6 @@
 
 ### Blog
 
-"Começe fazendo o que é necessário, depois o que é possível e em breve estará fazendo o impossível"
+"Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible."
 
 ♡ [Francisco Juan's Blog](https://medium.com/@juansev.dev)

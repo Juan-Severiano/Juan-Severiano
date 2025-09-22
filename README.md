@@ -1,76 +1,64 @@
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-</head>
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/a22289d7-a9cd-4bc6-8d79-d005a95db644" />
 
-# Hello There 🖖, I'm Francisco Juan
+### Hello, I'm Francisco Juan / Full-Stack Developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/rodriguesxxx/](https://www.linkedin.com/in/francisco-juan-severiano-a939b9241/))
-[![Insatgram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_juan.sev_/)
+⤷ Exploring the world of full-stack development at [Codify Tecnologia e Desenvolvimento](https://codifyweb.com/) and always looking to improve my skills in web and mobile.
 
- <div align="center"> 
-<a href="https://github.com/Juan-Severiano">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Juan-Severiano&theme=radical&rank_icon=github&show_icons=true&repo-private=true" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-Severiano&layout=compact&langs_count=6&card_width=320&theme=radical&repo-private=true" />
-  <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Juan-Severiano&theme=radical&mode=weekly" />
-</a>
-</div>
-
-## Experiences
-- FullStack Developer at <a href="https://codifyweb.com/">Codify Tecnologia e Desenvolvimento</a> (Native Mobile[Android and iOS], Web Master[ Next, Fastify, Nest, CodeIgniter and Laravel])
-- Mobile Developer at <a href="https://japediudelivery.com">JaPediu Delivery</a> (Native iOS, Native Android, and React Native)
-- Frontend Developer at <a href="https://bullean.com.br">Bullean Technologies</a>
-- <a href="https://github.com/CoffeeStackDev">CoffeeStack's</a> TechLead
-- [Amontada Valley](https://www.amontadavalley.com.br/) Student
-- Participant of the 3rd Hackathon of [Amontada Valley](https://www.amontadavalley.com.br/) with [Ninna Hub](https://ninnahub.com.br/) and [M. Dias Branco](https://mdiasbranco.com.br/)
+<a aligh="left" href="https://juansevdev.vercel.app" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>
+<a aligh="left" href="mailto:juan.developer@icloud.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>
+<a aligh="left" href="https://instagram.com/codevjuan" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /></a>
+<a aligh="left" href="https://www.linkedin.com/in/juansev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 
-## 🔧 Technical Skills
-- Solid foundation in Swift
-- Fluent in TypeScript
-- Full-expertise in React, React Native, Next.js, SwiftUI
-- Proficient in dinamic websites
-- Back (Nest.js, Node.js[express], Go)
+---
 
+### Experiences
 
-## 🔧 Soft Skills
-- **Leadership** - I worked as a team leader in several robotics competitions.
-- **Communication** - I have excellent communication, I can express myself clearly and objectively.
-- **Discipline** - I have the necessary discipline to carry out any task with excellence.
+* ⦾ **Full-Stack Developer** at [Codify Tecnologia e Desenvolvimento](https://codifyweb.com/)
+* ⦾ **Mobile Developer** at [JaPediu Delivery](https://japediudelivery.com)
+* ⦾ **Frontend Developer** at [Bullean Technologies](https://bullean.com.br)
+* ⦾ **TechLead** at [CoffeeStack](https://github.com/CoffeeStackDev)
+* ⦾ **Student** at [Amontada Valley](https://amontadavalley.com.br)
+* ⦾ **Participant and Winner** of the 3rd Hackathon of [Amontada Valley](https://www.amontadavalley.com.br/) with [Ninna Hub](https://ninnahub.com.br/) and [M. Dias Branco](https://mdiasbranco.com.br/)
 
-##
+---
 
-<body align="center">
-    <div class="ferramentas" align="center"> 
-        <br>
-        <img alt="Juan-Swift" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
-        <img aling="center" alt="Juan React" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        <img aling="center" alt="Juan-TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-        <img aling="center" alt="Juan Next" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />  
-      <img aling="center" alt="Juan NPM" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-            <img aling="center" alt="Juan NPM" height="40" width="50"
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-        <img aling="center" alt="Juan Python" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img aling="center" alt="Juan Arduino" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-        <img aling="center" alt="Juan VSCODE" height="40" width="50"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    </div>
+### Skills
 
+#### Frontend
 
-  ##
+<a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="Next.js" width="25" height="25" /></a>
+<a href="https://mui.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg" alt="Material-UI" width="25" height="25" /></a>
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind CSS" width="25" height="25" /></a>
+<a href="https://vitejs.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="25" height="25" /></a>
 
+#### Backend
 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="Node.js" width="25" height="25" /></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a>
+<a href="https://go.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/go.svg" alt="Go" width="25" height="25" /></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/php.svg" alt="PHP" width="25" height="25" /></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a>
+<a href="https://www.prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a>
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a>
 
-<div align="center"> 
-  <a href="https://discord.gg/_juan_7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- <a href = "mailto:juansoussev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/francisco-juan-severiano-a939b9241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://t.me/@juansev616" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</div>
-<div align="center">
-  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-</body>
+#### Mobile
+
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/kotlin.svg" alt="Kotlin" width="25" height="25" /></a>
+<a href="https://www.apple.com/swift/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/swift.svg" alt="Swift" width="25" height="25" /></a>
+<a href="https://reactnative.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React Native" width="25" height="25" /></a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/extra/flutter.svg" alt="Flutter" width="25" height="25" /></a>
+
+#### Desktop
+
+<a href="https://www.electronjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/extra/electron.svg" alt="Electron" width="25" height="25" /></a>
+
+---
+
+### Blog
+
+"Começe fazendo o que é necessário, depois o que é possível e em breve estará fazendo o impossível"
+
+♡ [Francisco Juan's Blog](https://medium.com/@juansev.dev)

@@ -21,6 +21,12 @@
 * ⦾ **Student** at [Amontada Valley](https://amontadavalley.com.br)
 * ⦾ **Participant and Winner** of the 3rd Hackathon of [Amontada Valley](https://www.amontadavalley.com.br/) with [Ninna Hub](https://ninnahub.com.br/) and [M. Dias Branco](https://mdiasbranco.com.br/)
 
+<div align="center">
+  <img src="https://github.com/rafa-coelho/toalha.dev/blob/main/historico/2025-2-operacao-natal/2o-lugar/badge.png" alt="2º Lugar - Operação Natal 2025/2" width="300"/>
+
+  **🥈 2º Lugar - Operação Natal 2025/2 | toalha.dev**
+</div>
+
 ---
 
 ### Skills

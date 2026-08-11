@@ -10,6 +10,8 @@
 <a aligh="left" href="https://www.linkedin.com/in/juansev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dan-nobre&label=Profile%20views&color=0e75b6&style=flat" alt="dan-nobre" /> </p>
+
 ---
 
 ### Experiences

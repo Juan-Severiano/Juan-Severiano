@@ -16,12 +16,13 @@
 
 ### Experiences
 
-* ⦾ **Full-Stack Developer** at [Codify Tecnologia e Desenvolvimento](https://codifyweb.com/)
-* ⦾ **Mobile Developer** at [JaPediu Delivery](https://japediudelivery.com)
-* ⦾ **Frontend Developer** at [Bullean Technologies](https://bullean.com.br)
+* ⦾ **Full-Stack Developer - Java** at [Pulse Tecnologia](https://pulsetecnologias.com.br/)
+* ⦾ **Full-Stack and Mobile Developer** at [JaPediu Delivery](https://japediudelivery.com)
+* ⦾ **Software Engineer** at [Bullean Technologies](https://bullean.com.br)
 * ⦾ **TechLead** at [CoffeeStack](https://github.com/CoffeeStackDev)
 * ⦾ **Student** at [Amontada Valley](https://amontadavalley.com.br)
 * ⦾ **Participant and Winner** of the 3rd Hackathon of [Amontada Valley](https://www.amontadavalley.com.br/) with [Ninna Hub](https://ninnahub.com.br/) and [M. Dias Branco](https://mdiasbranco.com.br/)
+* ⦾ **Winner** of the Swift Student Challange 2026 of [Apple](https://developer.apple.com/swift-student-challenge/distinguished-winners/)
 
 <div align="center">
   <img src="https://github.com/rafa-coelho/toalha.dev/blob/main/historico/2025-2-operacao-natal/2o-lugar/badge.png" alt="2º Lugar - Operação Natal 2025/2" width="300"/>

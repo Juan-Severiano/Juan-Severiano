@@ -1,4 +1,4 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/a22289d7-a9cd-4bc6-8d79-d005a95db644" />
+<img width="1400" height="350" alt="Nova" src="https://github.com/user-attachments/assets/d2f1f8e5-7c1e-44b8-9e2d-ea4da7680f31" />
 
 ### Hello, I'm Francisco Juan / Full-Stack Developer
 

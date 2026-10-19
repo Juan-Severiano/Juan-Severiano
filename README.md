@@ -1,68 +1,55 @@
-<img width="1400" height="350" alt="Nova" src="https://github.com/user-attachments/assets/d2f1f8e5-7c1e-44b8-9e2d-ea4da7680f31" />
+<img src="https://github.com/user-attachments/assets/d2f1f8e5-7c1e-44b8-9e2d-ea4da7680f31" alt="Francisco Juan — banner" width="100%" />
 
-### Hello, I'm Francisco Juan / Full-Stack Developer
+<h2 align="left">Hey, I'm Francisco Juan 👋</h2>
 
-⤷ Exploring the world of full-stack development at [Codify Tecnologia e Desenvolvimento](https://codifyweb.com/) and always looking to improve my skills in web and mobile.
+**Software Engineer · Full-Stack & Mobile Developer**
 
-<a aligh="left" href="https://juansevdev.vercel.app" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a>
-<a aligh="left" href="mailto:juan.developer@icloud.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>
-<a aligh="left" href="https://instagram.com/codevjuan" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/instagram.svg" alt="Instagram" width="22" height="22" /></a>
-<a aligh="left" href="https://www.linkedin.com/in/juansev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+I build web and mobile applications, backend services, and developer-focused solutions. I'm especially interested in software architecture, AI integrations, and creating reliable products from idea to production.
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Juan-Severiano&label=Profile%20views&color=0e75b6&style=flat" alt="dan-nobre" /> </p>
+[Portfolio](https://juansevdev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/juansev) · [Email](mailto:juan.developer@icloud.com) · [Instagram](https://instagram.com/codevjuan) · [Blog](https://medium.com/@juansev.dev)
 
 ---
 
-### Experiences
+### Experience
 
-* ⦾ **Full-Stack Developer - Java** at [Pulse Tecnologia](https://pulsetecnologias.com.br/)
-* ⦾ **Full-Stack and Mobile Developer** at [JaPediu Delivery](https://japediudelivery.com)
-* ⦾ **Software Engineer** at [Bullean Technologies](https://bullean.com.br)
-* * ⦾ **Mentor** at [Amontada Valley](https://amontadavalley.com.br)
-* ⦾ **TechLead** at [CoffeeStack](https://github.com/CoffeeStackDev)
-* ⦾ **Ex-Student** at [Amontada Valley](https://amontadavalley.com.br)
-* ⦾ **Participant and Winner** of the 3rd Hackathon of [Amontada Valley](https://www.amontadavalley.com.br/) with [Ninna Hub](https://ninnahub.com.br/) and [M. Dias Branco](https://mdiasbranco.com.br/)
-* ⦾ **Winner** of the Swift Student Challange 2026 of [Apple](https://developer.apple.com/swift-student-challenge/distinguished-winners/)
+- **Full-Stack Developer (Java)** — [Pulse Tecnologia](https://pulsetecnologias.com.br/)
+- **Full-Stack & Mobile Developer** — [JaPediu Delivery](https://japediudelivery.com)
+- **Software Engineer** — [Bullean Technologies](https://bullean.com.br)
+- **Tech Lead** — [CoffeeStack](https://github.com/CoffeeStackDev)
+- **Mentor** — [Amontada Valley](https://amontadavalley.com.br)
 
-<div align="center">
-  <img src="https://github.com/rafa-coelho/toalha.dev/blob/main/historico/2025-2-operacao-natal/2o-lugar/badge.png" alt="2º Lugar - Operação Natal 2025/2" width="300"/>
+Also involved in development at [Codify Tecnologia e Desenvolvimento](https://codifyweb.com/) and previously a student at **Amontada Valley**.
 
-  **🥈 2º Lugar - Operação Natal 2025/2 | toalha.dev**
-</div>
+### Awards & Recognition
 
----
+- **Winner — Apple Swift Student Challenge 2026** ([About the challenge](https://developer.apple.com/swift-student-challenge/distinguished-winners/))
+- **Winner — 3rd Amontada Valley Hackathon**, with [Ninna Hub](https://ninnahub.com.br/) and [M. Dias Branco](https://mdiasbranco.com.br/)
+- **2nd Place — Operação Natal 2025/2**, [toalha.dev](https://github.com/rafa-coelho/toalha.dev)
 
-### Skills
-
-#### Frontend
-
-| | | | | |
-|---|---|---|---|---|
-| <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> | <a href="https://nextjs.org" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="Next.js" width="25" height="25" /></a> | <a href="https://mui.com" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg" alt="Material-UI" width="25" height="25" /></a> | <a href="https://tailwindcss.com" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind CSS" width="25" height="25" /></a> | <a href="https://vitejs.dev" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/vite.svg" alt="Vite" width="25" height="25" /></a> |
-
-#### Backend
-
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="Node.js" width="25" height="25" /></a> | <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> | <a href="https://go.dev" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/go.svg" alt="Go" width="25" height="25" /></a> | <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/php.svg" alt="PHP" width="25" height="25" /></a> | <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> | <a href="https://www.prisma.io" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a> | <a href="https://firebase.google.com" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a> |
-
-#### Mobile
-
-| | | | | |
-|---|---|---|---|---|
-| <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/kotlin.svg" alt="Kotlin" width="25" height="25" /></a> | <a href="https://www.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/swift.svg" alt="Swift" width="25" height="25" /></a> | <a href="https://reactnative.dev" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React Native" width="25" height="25" /></a> | <a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a> | <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/extra/flutter.svg" alt="Flutter" width="25" height="25" /></a> |
-
-#### Desktop
-
-| |
-|---|
-| <a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/extra/electron.svg" alt="Electron" width="25" height="25" /></a> |
+<img src="https://github.com/rafa-coelho/toalha.dev/blob/main/historico/2025-2-operacao-natal/2o-lugar/badge.png" alt="2nd place — Operação Natal 2025/2" width="150" />
 
 ---
 
-### Blog
+### Tech Stack
 
-"Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible."
+**Frontend** · React · Next.js · Material UI · Tailwind CSS · Vite
 
-♡ [Francisco Juan's Blog](https://medium.com/@juansev.dev)
+**Backend** · Node.js · Express · Go · PHP
+
+**Data & Services** · PostgreSQL · Prisma · Firebase
+
+**Mobile** · Swift · Kotlin · React Native · TypeScript · Flutter
+
+**Desktop** · Electron
+
+**Exploring** · AI Agents · LLM Integrations · Claude Code · Codex · Software Architecture
+
+---
+
+### Writing
+
+I occasionally share ideas, experiments, and lessons from building software on [Medium](https://medium.com/@juansev.dev).
+
+<sub>"Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible."</sub>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Juan-Severiano&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>

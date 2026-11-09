@@ -90,7 +90,7 @@ Also involved in development at [Codify Tecnologia e Desenvolvimento](https://co
 
 ### Writing
 
-I occasionally share ideas, experiments, and lessons from building software on [Medium](https://medium.com/@juansev.dev).
+I occasionally share ideas, experiments, and lessons from building software on [Tabnews](https://tabnews.com.br/codevjuan).
 
 <sub>"Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible."</sub>
 
